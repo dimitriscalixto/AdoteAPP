@@ -16,6 +16,6 @@ Aplicativo produzido durante  a _PyStack Week_ - O retorno, visando aprender Dja
 >  ![Badge JAVSCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
-![img.png](img.png)
+<img src="https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2c78e6c0-3fc4-4d7f-84eb-a8d892d8cf64" align="center">
 
 
